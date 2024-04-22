@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D9FCBC63-6465-4AE6-9B53-F01B69AAB6E2"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1D442BB-2414-483B-89FC-9384F6DEB472"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bould/Managers/APIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "203"
+            endingLineNumber = "203"
+            landmarkName = "addBodyMeasurements(frontImage:sideImage:height:complition:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B1D442BB-2414-483B-89FC-9384F6DEB472 - fee2a2add3112a35"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bould.APIManager.addBodyMeasurements(height: Swift.Double, frontImageData: Swift.String, sideImageData: Swift.String, complition: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Bould"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devronins/Desktop/BouldInc/iOS-App/Bould/Managers/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "154"
+                  endingLineNumber = "154"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "B1D442BB-2414-483B-89FC-9384F6DEB472 - 5ecc3eb464495a8f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Bould.ApiResponse&lt;Bould.Measurements&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Bould.APIManager.addBodyMeasurements(frontImage: __C.UIImage, sideImage: __C.UIImage, heightInFeet: Swift.Double, heightInInches: Swift.Double, complition: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Bould"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devronins/Desktop/BouldInc/iOS-App/Bould/Managers/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "1512">
+               </Location>
+               <Location
+                  uuid = "B1D442BB-2414-483B-89FC-9384F6DEB472 - 5ecc3eb464495a8f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Bould.ApiResponse&lt;Bould.Measurements&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Bould.APIManager.addBodyMeasurements(frontImage: __C.UIImage, sideImage: __C.UIImage, heightInFeet: Swift.Double, heightInInches: Swift.Double, complition: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Bould"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devronins/Desktop/BouldInc/iOS-App/Bould/Managers/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "1756">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92B1893C-A829-4350-83C7-D2BEDEBAB064"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bould/Managers/APIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "198"
+            endingLineNumber = "198"
+            landmarkName = "addBodyMeasurements(frontImage:sideImage:height:complition:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "92B1893C-A829-4350-83C7-D2BEDEBAB064 - 5ecc3eb464495903"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Bould.ApiResponse&lt;Bould.Measurements&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Bould.APIManager.addBodyMeasurements(frontImage: __C.UIImage, sideImage: __C.UIImage, heightInFeet: Swift.Double, heightInInches: Swift.Double, complition: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Bould"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devronins/Desktop/BouldInc/iOS-App/Bould/Managers/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "824">
+               </Location>
+               <Location
+                  uuid = "92B1893C-A829-4350-83C7-D2BEDEBAB064 - 5ecc3eb4644959e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Bould.ApiResponse&lt;Bould.Measurements&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Bould.APIManager.addBodyMeasurements(frontImage: __C.UIImage, sideImage: __C.UIImage, heightInFeet: Swift.Double, heightInInches: Swift.Double, complition: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Bould"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devronins/Desktop/BouldInc/iOS-App/Bould/Managers/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "1568">
+               </Location>
+               <Location
+                  uuid = "92B1893C-A829-4350-83C7-D2BEDEBAB064 - 5ecc3eb4644959e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Bould.ApiResponse&lt;Bould.Measurements&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Bould.APIManager.addBodyMeasurements(frontImage: __C.UIImage, sideImage: __C.UIImage, heightInFeet: Swift.Double, heightInInches: Swift.Double, complition: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Bould"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devronins/Desktop/BouldInc/iOS-App/Bould/Managers/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "1812">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF165FD7-3447-4B7F-B2AA-639FB6A89AA6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bould/Controllers/TabBarViewController/Tab Controllers/PersonalFitView/PersonalFitViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "goToCreateModelInstructionsScreen()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CF165FD7-3447-4B7F-B2AA-639FB6A89AA6 - 53bf9b510c0ecd14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in Bould.PersonalFitViewController.goToCreateModelInstructionsScreen() -&gt; ()"
+                  moduleName = "Bould"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devronins/Desktop/BouldInc/iOS-App/Bould/Controllers/TabBarViewController/Tab%20Controllers/PersonalFitView/PersonalFitViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "CF165FD7-3447-4B7F-B2AA-639FB6A89AA6 - 53bf9b510c0ecd14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in Bould.PersonalFitViewController.goToCreateModelInstructionsScreen() -&gt; ()"
+                  moduleName = "Bould"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devronins/Desktop/BouldInc/iOS-App/Bould/Controllers/TabBarViewController/Tab%20Controllers/PersonalFitView/PersonalFitViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "175">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "734F409F-542D-4B7F-BDB3-7F64D8D5EA71"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bould/Controllers/TabBarViewController/Tab Controllers/ProductTryOnView/ViewModel/ProductTryOnViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "fetchProducts(isReload:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
